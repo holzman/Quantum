@@ -19,6 +19,7 @@ dependencies:
     - matplotlib
     - ipyparallel
     - py
+    - pycparser
 #    - qsharp=0.2.1806.3001
     - pip:
         - qinfer
