@@ -25,4 +25,4 @@ dependencies:
         - qinfer
         - duecredit
         - mpltools
-        - git+https://github.com/pythonnet/pythonnet
+        - git+https://github.com/holzman/pythonnet
